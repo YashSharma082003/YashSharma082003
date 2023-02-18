@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">A passionate frontend Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsharma082003&label=Profile%20views&color=0e75b6&style=flat" alt="yashsharma082003" /> </p>
